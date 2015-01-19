@@ -1,2 +1,2 @@
-# sub-user-
+# sub-user
 Sub-user Detection
